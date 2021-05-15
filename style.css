@@ -1,0 +1,82 @@
+#comic {
+	height: 1000px;
+	width: 1000px;
+	text-align: center;
+}
+body {
+	text-align: center;
+	background-image: linear-gradient(#4FC3F7,#FFFFFF,#78909C,#4FC3F7)
+}
+#fokoi1 {
+	height: 500px;
+	width: 1000px;
+	text-align: center;
+}
+#fokoi2{
+	height: 500px
+		width: 1000px;
+	text-align: center;
+}
+#fokoi3 {
+	height: 500px;
+	width: 1000px;
+	text-align: center;
+}
+#fokoi4 {
+	height: 500px;
+	width: 1000px;
+	text-align: center;
+}
+#fokoi5 {
+	height: 500px;
+	width: 1000px;
+	text-align: center;
+}
+#fokoi6 {
+	height: 500px;
+	width: 1000px;
+	text-align: center;
+}
+#fokoi7 {
+	height: 500px;
+	width: 1000px;
+	text-align: center;
+}
+#fokoi8 {
+	height: 500px;
+	width: 1000px;
+	text-align: center;
+}
+#fokoi9 {
+	height: 500px;
+	width: 1000px;
+	text-align: center;
+}
+#menu {
+   
+    list-style: none;
+    font-family: sans-serif;
+    position:sticky;
+    top:0px;
+    z-index: 10;
+	right: 0;
+    cursor: pointer;
+	background-color:navajowhite;
+	width: 100%;
+	margin-top: 0px;
+}
+.links {
+	display: inline;
+  color: #fff;
+  padding-top: 5px;
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-bottom: 5px;
+  font-family:cursive;
+  font-size: 30px;
+}
+.logy {
+	color: transparent
+}
+
+
